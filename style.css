@@ -14,3 +14,27 @@ section {
 .justify {
   text-align: justify;
 }
+
+.indent {
+  text-indent: 50px;
+}
+/* .animasi-nama {
+  animation: backInLeft;
+  animation-duration: 3s;
+} */
+
+.lead {
+  animation: backInRight;
+  animation-duration: 3s;
+}
+.p1-animation {
+  animation: backInLeft;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
+
+.p2-animation {
+  animation: backInRight;
+  animation-duration: 3s;
+  animation-delay: 3s;
+}
