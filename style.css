@@ -18,10 +18,10 @@ section {
 .indent {
   text-indent: 50px;
 }
-/* .animasi-nama {
+.animasi-nama {
   animation: backInLeft;
   animation-duration: 3s;
-} */
+}
 
 .lead {
   animation: backInRight;
